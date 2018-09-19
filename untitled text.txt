@@ -1,2 +1,2 @@
 initial commit message
-modification from branch 1
+modification from master
