@@ -1,2 +1,3 @@
 initial commit message
 modification from master
+second line changed from branch 2
